@@ -1,11 +1,11 @@
-:::::::: MORE: https://alphacodecamp.com.ng :::::::::::
-:::::::: MORE: https://alphacodecamp.com.ng :::::::::::
-:::::::: MORE: https://alphacodecamp.com.ng :::::::::::
-:::::::: MORE: https://alphacodecamp.com.ng :::::::::::
-:::::::: MORE: https://alphacodecamp.com.ng :::::::::::
-
+Credit Owner: https://alphacodecamp.com.ng 
 
 username: admin
 password: alphacodecamp
 
-Edit design
+
+Here we have project screenshot :
+User
+![screenshot](screenshot.jpg)
+Admin
+![screenshot](screenshot1.jpg)

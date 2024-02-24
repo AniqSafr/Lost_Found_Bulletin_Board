@@ -21,9 +21,10 @@
         <li class="nav-item pe-3">
             <a href="<?= base_url."?page=about" ?>" class="nav-link">About</a>
         </li>
+        <!--
         <li class="nav-item pe-3">
             <a href="<?= base_url.'?page=contact' ?>" class="nav-link">Contact Us</a>
-        </li>
+        </li>-->
       </ul>
     </nav><!-- End Icons Navigation -->
     <div class="d-flex align-items-center justify-content-between">

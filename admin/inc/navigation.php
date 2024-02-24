@@ -74,6 +74,7 @@
       </li>
     </ul>
   </li>
+  <!--
   <li class="nav-item">
     <a class="nav-link <?= $page != 'inquiries' ? 'collapsed' : '' ?> nav-users" href="<?= base_url."admin?page=inquiries" ?>">
       <i class="bi bi-inbox"></i>
@@ -108,6 +109,7 @@
     </a>
   </li>
   <?php endif; ?>
+  -->
 
 </ul>
 
